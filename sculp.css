@@ -1,0 +1,120 @@
+.s{
+    height: 10%;
+    width: auto;
+    background: none;
+}
+.s0{
+    height: 6%;
+    width: auto;
+    background: none;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.s00{
+    margin-left: 2%;
+    margin-top: 1.5%;
+    margin-right: 2%;
+    background: linear-gradient(to bottom right,#ee0c0c, #fc9546); /* Градиентный фон */
+    height: 90%;    
+    border-radius: 20px;
+    width: 40%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.s1{
+    margin-left: 2%;
+    margin-right: 2%;
+    background: none; /* Градиентный фон */
+    height: 95%;    
+    border-radius: 20px;
+    
+
+}
+.s1 h3{
+    margin-left: 2%;
+}
+
+.nn{
+    background:  none;
+    width:100%;
+    height:30%;
+  }
+  .nn1{
+    background:  none;
+    width:40%;
+    height:100%;
+    float: left;
+  }
+  
+  .nn2{
+    background: none;
+    width:60%;
+    height:100%;
+    float: left;
+    position: relative;
+    display: flex;
+     justify-content: center;
+     text-align: center;
+  }
+
+  .nn4{
+    margin-left: 2%;
+    background: none;
+    width:95%;
+    height:100%;
+    float: left;
+    position: relative;
+    display: flex;
+     justify-content: center;
+     text-align: center;
+  }
+  .nn5{
+    background:  none;
+    width:100%;
+    height:35%;
+  }
+  .nn3{
+    width: 34%;
+    background: #a19494; /* Градиентный фон */
+height: 100%;
+margin-left: 2%;
+margin-right: 2%;
+overflow: hidden; 
+border-radius: 20px;
+position: relative; 
+transition: transform 0.3s ease, box-shadow 0.3s ease;
+box-shadow: 10px 10px 0px #ee0c0c6e ;/* Необходимо для позиционирования обрезанного изображения */
+}
+
+.nn3 img {
+    width: auto; /* Сохранить пропорции изображения */
+    height: 100%; /* Заполнить всю высоту блока */
+    position: absolute; /* Абсолютное позиционирование относительно родителя */
+    left: 50%; /* Переместить изображение на половину его ширины влево */
+    transform: translateX(-50%); /* Центрировать изображение горизонтально */
+}
+.nn3:hover {
+    transform: scale(1.1); 
+    box-shadow: 15px 15px 0px #ee0c0cb5 ;
+
+  }
+ 
+
+.nn1 .s0{
+height: 15%;
+width: 100%;
+}
+.nn1 .s0 .s00{
+    height: auto;
+    width: 70%;
+    }
+    
+
+  
+  

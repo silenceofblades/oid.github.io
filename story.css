@@ -1,0 +1,66 @@
+   .content2 
+    {height: 100%;
+    width:100%;
+    background: linear-gradient(to bottom right,#f5909a, #ffdc95); /* Градиентный фон */
+    float:left;
+    background-repeat: no-repeat;   
+    background-size: cover;
+       }
+  #container2{
+    background: red;
+    width:100%;
+    height: 2500px;
+    }     
+    .nnn{
+        background:  none;
+        width:100%;
+        height:14%;
+    }    
+    .ssss{
+        height: 4%;
+        width: auto;
+        background: none;
+    }
+
+    .ssss0{
+        height: 3%;
+        width: auto;
+        background: none;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+            
+.rr0{
+    justify-content: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    display: flex;
+    height: 100%;
+    width: 25%;
+    background-color: none;
+  }
+  .rr0:hover {
+    transform: scale(1.1); 
+  }
+
+  
+.nn01{
+    background-image: url(p/1.jpg);
+    background-size: cover;
+    background-position: center center;
+    width:100%;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    height:9.43%;
+}          
+.nnnn3{
+    width: 34%;
+    background: none; /* Градиентный фон */
+height: 100%;
+margin-left: 2%;
+margin-right: 2%;
+overflow: hidden; 
+position: relative;
+}

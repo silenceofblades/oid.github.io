@@ -1,0 +1,142 @@
+.a{
+
+    height: 92.5%;
+    width: 100%;
+    background: none;
+}
+.a1{
+    height: 25%;
+    width: auto;
+background: none;
+display: flex;
+position: relative;
+justify-content: center;
+}.a11{
+    height: 25%;
+ margin-left: 3%;
+    width: auto;
+background: none;
+display: flex;
+position: relative;
+justify-content: center;
+}
+.a2{
+    height: auto;
+    width: 20%;
+background: none;
+display: flex;
+position: relative;
+justify-content: center;
+}
+.a3{
+    height: auto;
+    width: 20%;
+background:  none;
+flex-direction: column;  
+
+}.a4{
+    height: auto;
+    width: 60%;
+background: none;
+
+}
+
+.ad2{
+    height: auto;
+    width: 40%;
+background: none;
+display: flex;
+position: relative;
+justify-content: center;
+}
+.ad3{
+    height: auto;
+    width: 15%;
+background:  none;
+flex-direction: column;  
+
+}.ad4{
+    height: auto;
+    width: 45%;
+background: none;
+}
+.a5{
+    height: 20%;
+    width: auto;
+background: none;
+
+}.a6{
+    height: 26.66666666666667%;
+    width: auto;
+background: none;
+
+}
+.a66{
+    height: 50%;
+    width: auto;
+background: none;
+
+}.a666{
+    height: 50%;
+    width: auto;
+background: none;
+}
+
+
+.ss2{
+width: 80%;
+background: none; /* Градиентный фон */
+height: 90%;
+overflow: hidden; 
+border-radius: 20px;
+position: relative; 
+transition: transform 0.3s ease, box-shadow 0.3s ease;
+box-shadow: 10px 10px 0px #ee0c0c6e ;/* Необходимо для позиционирования обрезанного изображения */
+}
+
+.ss2 img {
+    width: auto; /* Сохранить пропорции изображения */
+    height: 100%; /* Заполнить всю высоту блока */
+    position: absolute; /* Абсолютное позиционирование относительно родителя */
+    left: 50%; /* Переместить изображение на половину его ширины влево */
+    transform: translateX(-50%); /* Центрировать изображение горизонтально */
+}
+.ss2:hover {
+    transform: scale(1.1); 
+    box-shadow: 15px 15px 0px #ee0c0cb5 ;
+
+  }
+.a44{
+    height: 10%;
+    width: auto;
+background: none;
+text-align: left;
+}
+.a444{
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 100%;
+    width: auto;
+background: none;
+}
+
+
+.a15{
+    height: 20%;
+    width: auto;
+background: none;
+text-align: right;
+}
+.a166{
+    height: 50%;
+    width: auto;
+background: none;
+text-align: right;
+}.a1666{
+    height: 50%;
+    width: auto;
+background: none;
+text-align: right;
+}
+
+

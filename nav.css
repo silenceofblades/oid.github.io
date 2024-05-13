@@ -1,0 +1,135 @@
+.navigation {
+    background: linear-gradient(to bottom right,#ee0c0c, #fc9546); /* Градиентный фон */
+    padding: 0px;
+    height: 7%;
+    margin-top: none;
+    justify-content: center;
+    text-align: center;
+}
+.navigation1 {
+    background: linear-gradient(to bottom right,#ee0c0c, #fc9546); /* Градиентный фон */
+    padding: 0px;
+    height: 3.3%;
+    margin-top: none;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.navigation ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 0px;
+}
+
+.navigation li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navigation li:last-child {
+    margin-right: 0;
+}
+
+.navigation a {    
+    font-family: "Bratsy Script Demo";
+    color: #f1c0c5;
+    text-decoration: none;
+    font-size: 200%;
+    padding: 0px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+
+.navigation a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navigation ul ul {
+    display: none;
+    position: absolute;
+    background: linear-gradient(to bottom right,#ee0c0c, #fc9546); /* Градиентный фон */
+    border-radius: 7%; /* Закругление углов */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Тень */
+    z-index: 1;
+}
+
+.navigation ul ul li {
+    display: block;
+    width: 40%; /* Ширина подменю */
+    margin: 0;
+    white-space: nowrap; /* Предотвращает перенос строк */
+}
+
+.navigation ul li:hover > ul {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navigation1 ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 0px;
+}
+
+.navigation1 li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navigation1 li:last-child {
+    margin-right: 0;
+}
+
+.navigation1 a {    
+    font-family: "Bratsy Script Demo";
+    color: #f1c0c5;
+    text-decoration: none;
+    font-size: 200%;
+    padding: 0px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+
+.navigation1 a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navigation1 ul ul {
+    display: none;
+    position: absolute;
+    background: linear-gradient(to bottom right,#ee0c0c, #fc9546); /* Градиентный фон */
+    border-radius: 7%; /* Закругление углов */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Тень */
+    z-index: 1;
+}
+
+.navigation1 ul ul li {
+    display: block;
+    width: 40%; /* Ширина подменю */
+    margin: 0;
+    white-space: nowrap; /* Предотвращает перенос строк */
+}
+
+.navigation1 ul li:hover > ul {
+    display: block;
+}

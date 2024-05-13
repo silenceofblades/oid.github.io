@@ -1,0 +1,440 @@
+
+@media screen and    (max-width: 768px){
+     
+.a166 h3{
+    font-size:small;
+    font-weight: bold;    
+}
+.a1666 h3{
+    font-size:small;
+    font-weight: bold;    
+}.a444 h3{
+    font-size:small;
+    font-weight: bold;    
+}   
+.a5 h3{
+    font-size: small;
+}   
+.a15 h3{
+    font-size: small;
+}      
+.a15{
+    
+    height: 7%;
+}
+.a5{
+    margin-top: auto;
+    height: 13%;
+    margin-left: 2%;
+
+}
+.a1{
+        height: 25%;
+    }
+
+    .a66 h3{
+        font-size:x-small;
+        font-weight: bold;    
+    }
+    .a666 h3{
+        font-size:x-small;
+        font-weight: bold;    
+    }.a444 h3{
+        padding-top: 4%;
+        font-size:x-small;
+        font-weight: bold;    
+    }   
+    .a5 h3{
+        font-size: x-small;
+    }      
+    .s0{
+height: 6%;
+    }
+    .s00{
+        height: auto;
+    }
+    .s00 p{
+        font-size: xx-large;
+        margin-bottom: 10%;
+    }.s00 font{
+        font-size: 190%;
+        margin-bottom: 10%;
+    }
+    .s0 p{
+        font-size: xx-large;
+    }
+    
+    p{
+        font-size: large;
+    }
+
+    .s00 h3{
+        font-size: small;
+    }
+  .content{
+    height: 100%;
+  }  
+  .content2{
+    height: 320vh;
+  }
+  .content1{
+    height: 140vh;
+  }
+  .container{
+    height: 140vh;
+  }
+  .n{
+      background-image: url(p/1.jpg);
+      background-size: cover;
+      background-position: center center;
+      width:100%;
+      justify-content: center;
+      position: relative;
+      display: flex;
+      height:15%;
+  }          
+  .nn01{
+    height: 7%;
+  }
+ 
+    .r{
+        margin-top: 2%;
+        width: 100%;
+        height: 25%;
+        max-height: none; 
+        position: relative;
+        display: flex;
+        justify-content: center;
+    background-color: none; 
+    }
+    .r7 h2{
+        font-size:medium;
+        font-weight: bold;    
+    }
+ 
+.nn{
+    height: 25%;
+}
+.s{
+    height: 15%;
+}
+
+.nn5{
+    height: 25%;
+}
+
+.nnn{
+    height: 12%;
+}
+
+
+
+
+
+}        
+@media screen and (max-width: 1300px){
+    .r7 h2{
+        font-size:large;
+        font-weight: bold;    
+    }
+h3{
+font-size: medium;
+}
+
+.s00 h3{
+    font-size: medium;
+}
+
+h3{
+    font-size: medium;
+}        
+.a66 h3{
+    font-size:small;
+    font-weight: bold;    
+}
+.a666 h3{
+    font-size:small;
+    font-weight: bold;    
+}  
+.a166 h3{
+    font-size:small;
+    font-weight: bold;    
+}
+.a1666 h3{
+    font-size:small;
+    font-weight: bold;    
+}.a444 h3{
+    font-size:small;
+    font-weight: bold;    
+}   
+.a5 h3{
+    font-size: small;
+}   
+.a15 h3{
+    font-size: small;
+}      
+.a15{
+    
+    height: 7%;
+}
+.a5{
+    margin-top: auto;
+    height: 13%;
+}
+
+
+}
+@media screen and (max-width: 800px){
+    .r7 h2{
+        font-size:medium;
+        font-weight: bold;    
+    }
+}
+
+
+
+@media screen and    (max-width: 768px){
+    .content{
+      height: 100%;
+    }  
+    .container{
+      height: 140vh;
+    }
+      .n{
+          background-image: url(p/1.jpg);
+          background-size: cover;
+          background-position: center center;
+          width:100%;
+          justify-content: center;
+          position: relative;
+          display: flex;
+          height:15%;
+      }          
+   
+      .r{
+          margin-top: 2%;
+          width: 100%;
+          height: 25%;
+          max-height: none; 
+          position: relative;
+          display: flex;
+          justify-content: center;
+      background-color: none; 
+      }
+      .r6{
+        height: 20%;
+      }
+      .r7 h2{
+          font-size:large;
+          font-weight: bold;    
+      }
+   
+      
+  
+  }        
+  @media screen and (max-width: 600px){
+
+    .r6{
+        height: 25%;
+      }
+    .r6 h2{
+          font-size: 70%;
+          font-weight: bold;    
+      }
+      h2{
+        font-size: 70%;
+        font-weight: bold;    
+    }
+  }@media screen and (max-width: 480px){
+    .navigation{
+        height: 3%;
+        font-size: medium;
+    }.navigation a{
+        font-size: 90%;
+    }
+    .navigation1{
+        height: 1.5%;
+        font-size: medium;
+    }.navigation1 a{
+        font-size: 90%;
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+.s1 h3{
+    font-size: xx-small;
+}
+     
+    .a166 h3{
+        font-size:x-small;
+        font-weight: bold;    
+    }
+    .a1666 h3{
+        font-size:x-small;
+        font-weight: bold;    
+    }.a444 h3{
+        font-size:x-small;
+        font-weight: bold;    
+    }   
+    .a5 h3{
+        font-size: small;
+    }   
+    .a15 h3{
+        font-size: small;
+    }      
+    .a15{
+        
+        height: 7%;
+    }
+    .a5{
+        margin-top: auto;
+        height: 13%;
+        margin-left: 2%;
+    
+    }
+    .a1{
+            height: 25%;
+        }
+    
+        .a66 h3{
+            font-size:x-small;
+            font-weight: bold;    
+        }
+        .a666 h3{
+            font-size:xx-small;
+            font-weight: bold;    
+        }.a444 h3{
+            padding-top: 4%;
+            font-size:  x-small;
+            font-weight: bold;    
+        }   
+        .a5 h3{
+            font-size: x-small;
+        }      
+        .s0{
+    height: 6%;
+        }
+        .s00{
+            height: auto;
+        }
+        .s00 p{
+            font-size: xx-large;
+            margin-bottom: 10%;
+        }.s00 font{
+            font-size: 190%;
+            margin-bottom: 10%;
+        }
+        .s0 p{
+            font-size: xx-large;
+        }
+        
+        p{
+            font-size: large;
+        }
+    
+        .s00 h3{
+            font-size: small;
+        }
+      .content{
+        height: 100%;
+      }  
+      .content2{
+        height: 320vh;
+      }
+      .content1{
+        height: 140vh;
+      }
+      .container{
+        height: 140vh;
+      }
+      .n{
+          background-image: url(p/1.jpg);
+          background-size: cover;
+          background-position: center center;
+          width:100%;
+          justify-content: center;
+          position: relative;
+          display: flex;
+          height:15%;
+      }          
+      .nn01{
+        height: 7%;
+      }
+     
+        .r{
+            margin-top: 2%;
+            width: 100%;
+            height: 25%;
+            max-height: none; 
+            position: relative;
+            display: flex;
+            justify-content: center;
+        background-color: none; 
+        }
+        .r7 h2{
+            font-size:medium;
+            font-weight: bold;    
+        }
+     
+    .nn{
+        height: 25%;
+    }
+    .s{
+        height: 15%;
+    }
+    
+    .nn5{
+        height: 25%;
+    }
+    
+    .nnn{
+        height: 9%;
+    }
+    
+.s0{
+    height: 4%;
+}    
+.s0 font{
+    font-size: large;
+}
+.ssss0{
+    height: 2%;
+}    
+.ssss0 p{
+    font-size: large;
+}
+.s0 p{
+    font-size: large;
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

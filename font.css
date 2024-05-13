@@ -1,0 +1,137 @@
+@font-face { 
+    font-family: "Bratsy Script Demo"; 
+    src: url("font/Bratsy Script Demo.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+ 
+  }   
+  @font-face { 
+    font-family: "Simplex"; 
+    
+    src: url("pict/font/Simplex.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+  }   
+
+  h2{
+    font-family: Simplex;
+    font-size:x-large;
+    font-weight: bold;    
+    color: #f1c0c5;
+    margin-left: 5%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-bottom: 0;
+    padding: 0;
+
+} 
+
+.overlay h2{
+  font-family: Simplex;
+  font-size: 100%;
+  font-weight: bold;    
+  color: #ffffff;
+  margin-left: 5%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 0;
+  padding: 0;
+
+} 
+
+h1{
+    font-family: Bratsy Script Demo;
+    font-size: 25px;
+    font-weight: normal;    
+    color: #f1c0c5;
+    margin-left: 5%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-bottom: 0;
+    padding: 0;
+
+}
+
+p{
+  font-family: Bratsy Script Demo;
+  font-size: 25px;
+  font-weight: normal;    
+  color: #f1c0c5;
+  margin-left: 5%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 0;
+  padding: 0;
+
+}
+
+.s00 p{
+    font-family: Bratsy Script Demo;
+    font-size:2.7em;
+    font-weight: normal;    
+    color: #f1c0c5;
+    margin-left: none;
+    margin-top: -3.5%;
+    margin-bottom: 2%;
+    padding: 0;
+
+}
+font{
+font-size: xx-large;
+  font-weight: normal;    
+  color: #f1c0c5;
+  margin-left: none;
+  margin-top: -3.5%;
+  margin-bottom: 2%;
+  padding: 0;
+font-family: Bratsy Script Demo;
+}
+h3{
+  font-family: Simplex;
+  font-weight: 4%;    
+  color:  #aa0a0a;
+font-size: x-large;
+margin-top: 3%;
+  
+}
+.s00 h3{
+  font-family: Simplex;
+  font-weight: 6%;    
+  color:  #f1c0c5;
+font-size: x-large;
+margin-top: 1.5%;
+  
+}
+
+.a3 h3{
+  font-family: Simplex;
+  font-weight: 6%;    
+  color:  #aa0a0a;
+font-size: x-large;
+margin-top: 0%;  
+}
+
+.a44 h2{
+  font-family: Simplex;
+  font-weight: bolder;    
+  color:  #aa0a0a;
+font-size: xx-large;    
+}
+
+.a666 h3{
+  font-family: Simplex;
+  font-weight: 6%;    
+  color:  #aa0a0a;
+font-size: 100%;
+margin-top: 0%;  
+
+}
+
+.a1666 h3{
+  font-family: Simplex;
+  font-weight: 6%;    
+  color:  #aa0a0a;
+font-size: 100%;
+margin-top: 0%;  
+
+}
